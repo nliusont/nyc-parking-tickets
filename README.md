@@ -7,7 +7,7 @@ This Streamlit app visualizes data on alternate side parking violations in New Y
 - **Interactive Map**: A scatter plot heatmap of NYC violations, showing density of violations by location.
 - **Monthly Violations Chart**: A line chart displaying violations by month.
 - **Hourly Violations Chart**: A line chart displaying violations by hour of the day.
-- **Data Source**: Based on NYC Open Data's parking violations dataset for FY24.
+- **Data Source**: Based on NYC Open Data's [parking violations dataset](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89/about_data) for FY24.
 
 ## Libraries Used
 
